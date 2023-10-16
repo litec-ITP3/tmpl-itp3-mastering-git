@@ -10,7 +10,7 @@ date: 2023
 
 ## Team
 
-- [Batman](./doc/progress_reports/Batman.md]
+- [Batman](./doc/progress_reports/Batman.md)
 
 THE Cov19-Protection you were missing so far (:copyright: teepublic.com):
 
