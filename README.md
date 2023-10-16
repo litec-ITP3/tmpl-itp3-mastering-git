@@ -15,16 +15,6 @@ date: 2023
 
 ---
 
-THE Cov19-Protection you were missing so far (:copyright: teepublic.com):
-
-
-
-![cov19mask](./_img/cov19mask_github_(c)teepublic_com.jpg)
-
-
-
----
-
 ## Why You Need to Listen Carefully for the Next Hour
 
 *(maybe a bit more than one hour, but we will try to keep it short...)*
