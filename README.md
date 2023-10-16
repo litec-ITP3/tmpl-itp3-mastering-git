@@ -150,7 +150,7 @@ Working together we will use:
 - ISSUES - see [Mastering Issues · GitHub Guides](https://guides.github.com/features/issues/)
 - PULL REQUESTS - see above (we already talked about that)
   - Combination: [Linking a pull request to an issue - GitHub Docs](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
-- *Aaaaaaand finally*:  git PROJECTS - [About project boards - GitHub Docs](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)
+- *Aaaaaaand finally*:  git PROJECTS - [About project boards - GitHub Docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
 > :warning: As already mentioned... work in progress :construction:
 

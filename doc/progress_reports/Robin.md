@@ -29,6 +29,10 @@ I am Robin. My main focus within this project is to:
 
 ## 2021-02-16
 
-- Today I aid with teaching students "Mastering Github" (1hr 35min)
-- Bruce is getting nervous, I think he wants to hunt down another villain soon... (5min)
+- Today I aided teaching students "Mastering Github" (1hr 35min)
+
+## 2023-10-16
+
+- Once again, I assisted to teach students how to write progress reports (15 min)
+- I get nervous, need to hunt down another villain soon... (5min)
 
