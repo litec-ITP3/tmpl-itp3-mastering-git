@@ -8,9 +8,12 @@ date: 2023
 
 # Mastering ITP and SEW Projects like a Pro
 
-## Team
+## Team-Members (and Link to ProgressReports)
 
 - [Batman](./doc/progress_reports/Batman.md)
+- [Robin](./doc/progress_reports/Robin.md)
+
+---
 
 THE Cov19-Protection you were missing so far (:copyright: teepublic.com):
 
