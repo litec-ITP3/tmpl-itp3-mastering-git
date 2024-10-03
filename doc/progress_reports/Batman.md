@@ -12,7 +12,7 @@ I am Batman. My main focus within this project is to:
 ## 1939-03-30
 
 - Today I started to work one of my most important missions: Fighting Crime! This seems to be an never ending story... (82 years so far)
-- Appeared in Detective Comics - **DAMNIT - now EVERYONE knows I am Bruce Wayne!!** 
+- Appeared in Detective Comics - **DAMNIT - now EVERYONE knows I am Bruce Wayne!!**
 
 ---
 
@@ -35,3 +35,7 @@ I am Batman. My main focus within this project is to:
 - Once again, I assisted to teach students how to write progress reports (15 min)
 - I get nervous, need to hunt down another villain soon... (5min)
 
+## 2024-09-15
+
+- Once again, I assisted to teach students how to write progress reports (15 min)
+- I get nervous, need to hunt down another villain soon... (5min)

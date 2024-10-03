@@ -1,10 +1,8 @@
 ---
 author: hasp, web
 topic: git, github, project management, survival
-date: 2023
+tags:: 2324-4AHIT, 2425-3AHIT
 ---
-
-> BEWARE! Work in progress...
 
 # Mastering ITP and SEW Projects like a Pro
 
@@ -24,7 +22,7 @@ date: 2023
 - What do I really use my github account for?
 - What the :skull_and_crossbones: :anger: :boom: :right_anger_bubble: are 
   - merge conflicts,
-  - git branches, 
+  - git branches,
   - pull requests, and
   - git issues???
 - How can I work with others on my coding project without going insane?
@@ -40,7 +38,7 @@ To "freshen up"  you might want to look at: [Git Handbook · GitHub Guides](http
 
 A file and folder structure to feel secure and find your way around:
 
-```
+```txt
 [root repo folder]
   |
   + [.git] // folder - contains all infos our version system needs (do NOT delete)
@@ -53,7 +51,7 @@ A file and folder structure to feel secure and find your way around:
   + [src] // folder - containg your source code
 ```
 
-For`.gitignore`-creation see [gitignore.io - Create Useful .gitignore Files For Your Project (toptal.com)](https://www.toptal.com/developers/gitignore). 
+For`.gitignore`-creation see [gitignore.io - Create Useful .gitignore Files For Your Project (toptal.com)](https://www.toptal.com/developers/gitignore).
 
 ---
 
@@ -77,15 +75,15 @@ The `readme.md` is the entry-point for every  visitor to your repository (repo).
 
 ---
 
-##  Step 2 to a Better Life - Branching
+## Step 2 to a Better Life - Branching
 
 Some citations:
 
-> **"It's a.... it's a TREE!" :deciduous_tree: **
+> **"It's a.... it's a TREE!" :deciduous_tree:**
 >
 > (*source: unknown*)
 
-> **"Don't your f...ing dare to mess up my code!"  **
+> **"Don't your f...ing dare to mess up my code!"**
 >
 > (*source: EVERY programmer working within a team*)
 
@@ -93,9 +91,8 @@ Branching is an essential skill every versioning tool user has to learn some day
 
 So, let's get started:
 
-- We will fall astray and have a look at the github-competition: [Git Branch | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/using-branches), 
+- We will fall astray and have a look at the github-competition: [Git Branch | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/using-branches),
   - maybe also have a look at the following tutorials: `checkout` and `merge`...
-
 - Detailed information (if you really want to know): [Git - Branches in a Nutshell (git-scm.com)](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - Now. let's have a look at the github workflow: [Understanding the GitHub flow · GitHub Guides](https://guides.github.com/introduction/flow/)
 - Step By Step: [How to Create a Pull Request on Github: 15 Steps (with Pictures) (wikihow.com)](https://www.wikihow.com/Create-a-Pull-Request-on-Github)
@@ -107,7 +104,7 @@ So, let's get started:
 - Create a new branch with `git branch my-improvements`
 - Use that branch with `git checkout my-improvements`
 - Make all the changes you want
-- When you’re finished, use `git add ` and `git commit` as usual
+- When you’re finished, use `git add` and `git commit` as usual
 - Switch back to `master` (or `main`) with `git checkout master`
 - Push the changes back to Github with `git push origin my-improvements`
 - Go to the link git gives you to complete the pull request process
@@ -124,14 +121,14 @@ Let's assume:
 
 - you finished your work and want to push your new code to the github repo.
 
-  -  It all starts with a small message: your local repo is behind the github main branch, so you need to pull the latest version from the githubserver.
+  - It all starts with a small message: your local repo is behind the github main branch, so you need to pull the latest version from the githubserver.
   - You do that, and **BAM!** :boom:- your best pal (or villain) already pushed his version of the file to the server, so now you have a **MERGE CONFLICT!!!** 
 
 - What to do now? Ask for example: [Git merge conflicts | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
 - Most importantly search your file for the following patterns and choose wisely which part to keep:
 
-  ```
+  ```txt
   <<<<<<< HEAD
   ...
   =======
@@ -163,12 +160,3 @@ Working together we will use:
 - markdown Emojis: 
   - [ikatyang/emoji-cheat-sheet: A markdown version emoji cheat sheet (github.com)](https://github.com/ikatyang/emoji-cheat-sheet)
   - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
-
-
-
-
-
-
-
-
-

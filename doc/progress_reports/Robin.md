@@ -12,8 +12,8 @@ I am Robin. My main focus within this project is to:
 ## 1940-04-01
 
 - Today I started to work with my hero: Batman - He adopted me (for whatever reason - ok the main reason was to increase comic book sales)  (81 years so far)
-- Appeared in Detective Comics - **DAMNIT - now EVERYONE knows I am Dick Grayson - NO! - Jason Todd - NO! - Tim Drake - NO! - Stephanie Brown - NO! - Damian Wayne!?! ** 
-  - **Who am I? Why am I?** 
+- Appeared in Detective Comics - **DAMNIT - now EVERYONE knows I am Dick Grayson - NO! - Jason Todd - NO! - Tim Drake - NO! - Stephanie Brown - NO! - Damian Wayne!?!**
+  - **Who am I? Why am I?**
 
 ---
 
@@ -36,3 +36,7 @@ I am Robin. My main focus within this project is to:
 - Once again, I assisted to teach students how to write progress reports (15 min)
 - I get nervous, need to hunt down another villain soon... (5min)
 
+## 2024-09-15
+
+- Once again, I assisted to teach students how to write progress reports (15 min)
+- I get nervous, need to hunt down another villain soon... (5min)

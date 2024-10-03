@@ -19,7 +19,7 @@ Folgende Punkte sind in der Dokumentation (wenn möglich mit Bildmaterial) umzus
 
 4. Installations- bzw. Bedienungsanleitung
 
-   1. >  Empfehlung: in readme.md des Hauptordners - alternative LINK auf Dokumentations-Datei
+   1. > Empfehlung: in readme.md des Hauptordners - alternative LINK auf Dokumentations-Datei
 
    2. Verwendete Werkzeuge
 

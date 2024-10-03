@@ -7,4 +7,3 @@ Stuff like:
 - progress reports
 - detail information on documentation of subprojects or workpackages
 - ...
-
